@@ -1,6 +1,6 @@
-# Nama : Bayu Arioseto Slamet Prawiro
+# Nama : Aditya Rizky Hermawan
 
-# NIM : G.211.20.0084
+# NIM : G.211.20.0074
 
 # Kelas : A2
 
